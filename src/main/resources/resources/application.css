@@ -1,0 +1,45 @@
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-background: transparent;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+}
+
+.check-box {
+    -fx-font-size: 16px;
+    -fx-text-fill: #0fb8a7;
+    -fx-background-color: transparent;
+}
+
+.check-box .box {
+    -fx-border-color: #aab6fe; 
+    -fx-border-width: 2px;
+    -fx-background-color: #ffffff;
+}
+
+.combo-box {
+    -fx-background-radius: 30px;
+    -fx-border-color: #aab6fe;
+    -fx-border-radius: 30px;
+    -fx-border-width: 2px;
+    -fx-background-color: white;
+    -fx-font-size: 20px;
+    -fx-font-family: 'HirukoPro-Book';
+    -fx-text-fill: #6b6290;
+}
+
+.combo-box .list-cell {
+    -fx-text-fill: #6b6290;
+}
+
+.combo-box .editable-input {
+    -fx-text-fill: #6b6290;
+}
+
+.chart-legend .label {
+    -fx-font-family: 'HirukoPro-Book';
+    -fx-font-size: 16px;
+    -fx-text-fill: #6b6290;
+}
