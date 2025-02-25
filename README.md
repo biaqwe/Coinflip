@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JLYnumnD)
 # Coinflip - aplicatie de gestionare a bugetului
 ### Bianca Balaș
 
@@ -22,7 +21,7 @@ Coinflip este o aplicatie pentru gestionarea bugetului personal care permite uti
 ## Arhitectura
 
 ### Clase
-<img width="529" alt="Screenshot 2025-01-18 at 23 05 45" src="https://github.com/user-attachments/assets/9bd73e85-e5f1-4fd6-b625-a840044d46c4" />
+<img width="529" src="https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/clase.png" />
 
 * clasa "Transaction"
   - Atribute:
