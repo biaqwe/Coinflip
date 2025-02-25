@@ -56,7 +56,7 @@ Coinflip este o aplicatie pentru gestionarea bugetului personal care permite uti
 # ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/main.png)
 # ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/add.png)
 # ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/subs.png)
-# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/report.png)
+# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/reportss.png)
 
 ## Functionalitati/Exemple utilizare
 ### Inregistrare:
