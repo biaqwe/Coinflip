@@ -47,16 +47,16 @@ Coinflip este o aplicatie pentru gestionarea bugetului personal care permite uti
     - isEssential (boolean): true daca tranzactia este esentiala (ex. chirie), false altfel (valoarea implicita: false)
    
 ### Tabele
-<img width="621" alt="Screenshot 2025-01-18 at 22 52 13" src="https://github.com/user-attachments/assets/e5f6d4b2-bf05-4d41-9dee-e9cf2427ecc7" />
+# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/tabele.png)
 
 * tabelul "users": contine utilizatorii, fiecare cu un identificator, username si parola
 * tabelul "transactions": contine tranzactiile, cu detalii despre nume, suma, moneda, metoda de plata, data, daca este abonament, daca este exclusa din raport, tip, sursa (in cazul veniturilor), si daca este esentiala (in cazul cheltuielilor); are legatura catre tabelul "users" prin campul "userID"
 
 ### Pagini
-<img width="399" alt="Screenshot 2025-01-18 at 22 53 50" src="https://github.com/user-attachments/assets/ce4ee5eb-f11d-473e-8fe1-e1a8d0dc44bf" />
-<img width="399" alt="Screenshot 2025-01-18 at 22 53 06" src="https://github.com/user-attachments/assets/e6832798-f284-4ac3-88b7-f973f3e04e78" />
-<img width="399" alt="Screenshot 2025-01-18 at 22 55 30" src="https://github.com/user-attachments/assets/125a5275-1d74-4ce7-8e50-727c4b574b25" />
-<img width="399" alt="Screenshot 2025-01-18 at 22 56 08" src="https://github.com/user-attachments/assets/4ce4b58b-7216-46a0-a3a9-58cc903a54a6" />
+# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/main.png)
+# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/add.png)
+# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/subs.png)
+# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/report.png)
 
 ## Functionalitati/Exemple utilizare
 ### Inregistrare:
