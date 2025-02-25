@@ -21,7 +21,7 @@ Coinflip este o aplicatie pentru gestionarea bugetului personal care permite uti
 ## Arhitectura
 
 ### Clase
-<img width="529" src="https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/clase.png" />
+# ![Coinflip](https://github.com/biaqwe/Coinflip/blob/main/src/main/resources/resources/clase.png)
 
 * clasa "Transaction"
   - Atribute:
